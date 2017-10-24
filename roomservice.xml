@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Wileyfox Swift 2-->
-  <project name="vibrocil/android_device_wileyfox_marmite" path="device/wileyfox/marmite" revision="android-7.1" />
-  <project name="DevelopedInside/android_kernel_wileyfox_msm8937" path="kernel/wileyfox/msm8937" revision="cm-14.1" />
-  <project name="vibrocil/proprietary_vendor_wileyfox" path="vendor/wileyfox" revision="android-7.1" />
+  <project name="vibrocil/android_device_wileyfox_marmite" path="device/wileyfox/marmite" remote="github" revision="android-7.1" />
+  <project name="DevelopedInside/android_kernel_wileyfox_msm8937" path="kernel/wileyfox/msm8937" remote="github" revision="cm-14.1" />
+  <project name="vibrocil/proprietary_vendor_wileyfox" path="vendor/wileyfox" remote="github" revision="android-7.1" />
 </manifest>
